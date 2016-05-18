@@ -25,13 +25,14 @@ NSS Front-End Milestone 3 (Modern Developer) Exercise 7:
 ``` 
 git clone https://github.com/MeganCFord/NSS-MD-7-zoo.git
 cd 7-zoo
+npm init
 open index.html
 ```
 
 [Live Site On Github]()
 
 
-![screenshot]()
+![screenshot](zoo-screenshot.jpg)
 
 
 ## License 
