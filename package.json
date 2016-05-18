@@ -1,0 +1,26 @@
+{
+  "name": "7-zoo",
+  "version": "1.0.0",
+  "description": "prototypal inheritance exercise nashville software school",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeganCFord/NSS-MD-7-zoo.git"
+  },
+  "author": "megan ford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeganCFord/NSS-MD-7-zoo/issues"
+  },
+  "homepage": "https://github.com/MeganCFord/NSS-MD-7-zoo#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-watch": "^4.3.5",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0"
+  }
+}
