@@ -1,0 +1,8 @@
+create .jshintrc and paste in settings: 
+{
+  "predef": [ "document", "jQuery", "$", "console" ],
+  "esversion": 6,
+  "globalstrict": true, 
+  "browser": true, 
+  "devel": true
+}
